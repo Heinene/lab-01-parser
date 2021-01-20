@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "name": "Petr Petrov",
+      "group": "IU8-11",
+      "avg": "4.25",
+      "debt": "Math"
+    }
+  ],
+  "_meta": {
+    "count": 1
+  }
+}

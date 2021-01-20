@@ -1,0 +1,5 @@
+C:/Users/User/source/repos/lab01/out/build/x64-Debug (default)/CMakeFiles/template.dir
+C:/Users/User/source/repos/lab01/out/build/x64-Debug (default)/CMakeFiles/tests.dir
+C:/Users/User/source/repos/lab01/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/User/source/repos/lab01/out/build/x64-Debug (default)/CMakeFiles/test.dir
+C:/Users/User/source/repos/lab01/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir

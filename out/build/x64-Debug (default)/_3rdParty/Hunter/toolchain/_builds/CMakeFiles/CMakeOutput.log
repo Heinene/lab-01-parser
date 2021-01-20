@@ -45,3 +45,37 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
 
+The CXX compiler identification is MSVC, found in "C:/Users/User/source/repos/lab01/out/build/x64-Debug (default)/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/User/source/repos/lab01/out/build/x64-Debug (default)/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_30f58 && [1/2] Building C object CMakeFiles\cmTC_30f58.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_30f58.exe
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/User/source/repos/lab01/out/build/x64-Debug (default)/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_87535 && [1/2] Building C object CMakeFiles\cmTC_87535.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_87535.exe
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/User/source/repos/lab01/out/build/x64-Debug (default)/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_70c08 && [1/2] Building CXX object CMakeFiles\cmTC_70c08.dir\testCXXCompiler.cxx.obj
+[2/2] Linking CXX executable cmTC_70c08.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/User/source/repos/lab01/out/build/x64-Debug (default)/_3rdParty/Hunter/toolchain/_builds/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_7cac4 && [1/2] Building CXX object CMakeFiles\cmTC_7cac4.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_7cac4.exe
+
+
+
